@@ -4,8 +4,8 @@ Aplicación de lista de tareas construida con JavaScript vanilla.
 
 ## 🔗 Links
 
-- 🌐 Demo en vivo: [GitHub Pages](https://o0vanfanel0o.github.io/To-Do-app/)
-- 💻 Repositorio: [GitHub](https://github.com/o0VanFanel0o/To-Do-app)
+- 🌐 Demo en vivo: [GitHub Pages](https://o0vanfanel0o.github.io/to-do-app/)
+- 💻 Repositorio: [GitHub](https://github.com/o0VanFanel0o/to-do-app)
 
 ## 📸 Vista previa
 
